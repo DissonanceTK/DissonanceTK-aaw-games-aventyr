@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root version="3.0">
+	<calendar>
+		<base static="true">
+			<Aventyr>
+				<name type="string">Aventyr Calendar</name>
+				<setting type="string">Aventyr</setting>
+				<lunardaycalc type="string">LunarWrap</lunardaycalc>
+				<lunarweek>
+					<day1 type="string">Sunday</day1>
+					<day2 type="string">Monday</day2>
+					<day3 type="string">Tuesday</day3>
+					<day4 type="string">Wednesday</day4>
+					<day5 type="string">Thursday</day5>
+					<day6 type="string">Friday</day6>
+					<day7 type="string">Saturday</day7>
+				</lunarweek>
+				<periods>
+					<period1>
+						<days type="number">29</days>
+						<name type="string">Gebo</name>
+					</period1>
+					<period2>
+						<days type="number">29</days>
+						<name type="string">Isa</name>
+					</period2>
+					<period3>
+						<days type="number">29</days>
+						<name type="string">Nautiz</name>
+					</period3>
+					<period4>
+						<days type="number">29</days>
+						<name type="string">Noktan</name>
+					</period4>
+					<period5>
+						<days type="number">29</days>
+						<name type="string">Uruz</name>
+					</period5>
+					<period6>
+						<days type="number">29</days>
+						<name type="string">Na</name>
+					</period6>
+					<period7>
+						<days type="number">29</days>
+						<name type="string">Gildr</name>
+					</period7>
+					<period8>
+						<days type="number">29</days>
+						<name type="string">Algiz</name>
+					</period8>
+					<period9>
+						<days type="number">29</days>
+						<name type="string">Gata</name>
+					</period9>
+					<period10>
+						<days type="number">29</days>
+						<name type="string">Ansuz</name>
+					</period10>
+					<period11>
+						<days type="number">38</days>
+						<name type="string">Purisaz</name>
+					</period11>
+				</periods>
+			</Aventyr>
+		</base>
+	</calendar>
+</root>
