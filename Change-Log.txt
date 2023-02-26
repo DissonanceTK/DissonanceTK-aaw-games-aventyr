@@ -1,2 +1,4 @@
+V1.1.0
+All d100 Tables added
 V1.0.0
 Initial port of Foundry VTT Files
