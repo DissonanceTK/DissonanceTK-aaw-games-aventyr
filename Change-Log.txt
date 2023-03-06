@@ -1,3 +1,5 @@
+V2
+First Public Release
 V1.1.2
 Optimized text
 V1.1.1
